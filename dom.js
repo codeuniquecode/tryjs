@@ -1,0 +1,1 @@
+document.getElementsByClassName("contain").innerHTML="hi";
